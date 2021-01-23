@@ -32,7 +32,7 @@ class GLRender : GLSurfaceView.Renderer {
 
     private val g :Float = 0.0001f        /////重力 gravity
 
-    private var num :Int = 100           /////玉の数 bal number
+    private var num :Int = 200           /////玉の数 bal number
     private var px1 :Float = 0.0f
     private var py1 :Float = 0.0f
     private var vx1 :Float = 0.0f
